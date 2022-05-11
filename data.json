@@ -1,0 +1,130 @@
+{
+  "hero": {
+    "title": "We are Web Developer! Product and Brand Designer.",
+    "hallo": "👋 Hallo! We'd love to help",
+    "description": "We build readymade websites, mobile applications, and elaborate online business services."
+  },
+  "experience": [
+    {
+      "ex": "3",
+      "des": "Year Experience"
+    },
+    {
+      "ex": "20",
+      "des": "Satisfied Clients"
+    },
+    {
+      "ex": "40",
+      "des": "Completed Projects"
+    },
+    {
+      "ex": "3",
+      "des": "Live Projects"
+    }
+  ],
+  "services": {
+    "title": "services",
+    "subtitle": "Creates design that solve problems at once",
+    "service": [
+      {
+        "img": "./img/icon-design.svg",
+        "title": "UI/UX Design",
+        "des": "Lorem ipsum dolor sit amet lorem dolor amet sit."
+      },
+      {
+        "img": "./img/icon-front-end.svg",
+        "title": "Front-end Development",
+        "des": "Lorem ipsum dolor sit amet lorem dolor amet sit."
+      },
+      {
+        "img": "./img/icon-back-end.svg",
+        "title": "Back-end Development",
+        "des": "Lorem ipsum dolor sit amet lorem dolor amet sit."
+      }
+    ]
+  },
+  "educations": {
+    "title": "educations",
+    "subtitle": "Create design that solve problems at once",
+    "education": [
+      {
+        "title": "sdn 1 kudukeras",
+        "des": "Lorem ipsum dollor sit amet."
+      },
+      {
+        "title": "smpn 1 pabuaran",
+        "des": "Lorem ipsum dollor sit amet."
+      },
+      {
+        "title": "sman 1 waled",
+        "des": "Lorem ipsum dollor sit amet."
+      },
+      {
+        "title": "uiversitas mercu buana yogyakarta",
+        "des": "Lorem ipsum dollor sit amet."
+      }
+    ]
+  },
+  "tools": {
+    "title": "tools & skills",
+    "subtitle": "Create design that solve problems at once",
+    "tool": [
+      {
+        "img": "./img/html.svg",
+        "title": "HTML"
+      },
+      {
+        "img": "./img/css.svg",
+        "title": "CSS"
+      },
+      {
+        "img": "./img/php.svg",
+        "title": "PHP"
+      },
+      {
+        "img": "./img/javascript.svg",
+        "title": "JavaScript"
+      },
+      {
+        "img": "./img/tailwind.svg",
+        "title": "Tailwind CSS"
+      },
+      {
+        "img": "./img/react.svg",
+        "title": "React JS"
+      },
+      {
+        "img": "./img/mysql.svg",
+        "title": "MySQL"
+      },
+      {
+        "img": "./img/mongodb.svg",
+        "title": "MongoDB"
+      },
+      {
+        "img": "./img/express.svg",
+        "title": "Express JS"
+      },
+      {
+        "img": "./img/alpinejs.svg",
+        "title": "Alpine JS"
+      },
+      {
+        "img": "./img/codeigniter.svg",
+        "title": "Codeigniter"
+      },
+      {
+        "img": "./img/sass.svg",
+        "title": "Sass"
+      }
+    ]
+  },
+  "banner": {
+    "title": "Creates design that solve problems at once available on"
+  },
+  "copyright": {
+    "author": "In'am Falahuddin",
+    "address": "https://github.com/inamfalahuddin",
+    "year": "2022"
+  }
+}
